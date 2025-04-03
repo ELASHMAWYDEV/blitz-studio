@@ -1,0 +1,77 @@
+@font-face {
+  font-family: "Arial";
+  src: url("/fonts/Arial/Arial.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url("/fonts/Arial/Arial Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url("/fonts/Arial/Arial Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url("/fonts/Arial/Arial Bold Italic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Arial";
+  src: url("/fonts/Arial/Arial Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arial Narrow";
+  src: url("/fonts/Arial Narrow/Arial Narrow.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arial Narrow";
+  src: url("/fonts/Arial Narrow/Arial Narrow Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Arial Narrow";
+  src: url("/fonts/Arial Narrow/Arial Narrow Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arial Narrow";
+  src: url("/fonts/Arial Narrow/Arial Narrow Bold Italic.ttf")
+    format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Arial Rounded";
+  src: url("/fonts/Arial Rounded/ARLRDBD.TTF") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arial Unicode";
+  src: url("/fonts/Arial Unicode/ARIALUNI.TTF") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
