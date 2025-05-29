@@ -77,7 +77,7 @@ export default function AnimatedImagesSection() {
               alt="Of hard work"
               width={1200}
               height={200}
-              className="w-full object-contain h-[50vh]"
+              className="w-full object-contain h-[20vh] md:h-[50vh]"
               priority
             />
           </motion.div>

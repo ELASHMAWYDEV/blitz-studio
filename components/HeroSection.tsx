@@ -64,7 +64,7 @@ export default function HeroSection() {
     <main className="pt-0">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 min-h-screen flex flex-col items-center justify-center text-center">
         {/* Circular Text and Bird Image */}
-        <div className="fixed w-[32rem] h-[32rem] mb-12 mix-blend-difference z-[100]">
+        <div className="fixed w-[24rem] h-[24rem] md:w-[32rem] md:h-[32rem] mb-12 mix-blend-difference z-[100]">
           <div ref={circleRef} className="absolute inset-0">
             <svg viewBox="0 0 100 100" className="w-full h-full">
               <path
@@ -84,7 +84,7 @@ export default function HeroSection() {
               </text>
             </svg>
           </div>
-          <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-80 h-80">
+          <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 w-32 h-32 md:w-80 md:h-80">
             <Image
               src="/swallow-bird.png"
               alt="Swallow Bird"
